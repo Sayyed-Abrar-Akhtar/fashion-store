@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"Atelier No. 8 | Considered Essentials",description:"A study in everyday elegance. Considered essentials, beautiful textures and timeless silhouettes."};export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
